@@ -1,0 +1,20 @@
+{
+  "name": "justtry",
+  "version": "1.0.0",
+  "description": "\"My first try\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.4",
+    "webpack": "^5.102.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
