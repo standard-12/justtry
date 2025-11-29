@@ -1,0 +1,31 @@
+nav {
+    width: 250px;
+    height: auto;
+    padding: 10px;
+    
+    display: grid;
+    background-color: rgb(30, 138, 215);
+    color: white;
+}
+
+nav > div {
+    font-size: larger;
+    font-weight: 400;
+    text-align: center;
+    
+    display: grid;
+    grid-auto-rows: 50px;
+}
+
+nav > img {
+    height:25px;
+    width: 25px;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
+}
